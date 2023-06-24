@@ -7,6 +7,7 @@ function CardsPersonaje({ id, imagen, nombre, especie }) {
       <img src={imagen} alt="" />
       <p>Nombre:&nbsp;<b>{nombre}</b></p>
       <p>Especie:&nbsp; <b>{especie}</b></p>
+      <a href=""></a>
     </div>
   );
 }

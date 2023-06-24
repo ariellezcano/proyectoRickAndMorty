@@ -1,4 +1,4 @@
-import CardsPersonaje from "../component/cards-personaje";
+import CardsPersonaje from "../component/cards/cards-personaje";
 
 function LstPersonajes({ data }) {
   return (
